@@ -40,7 +40,7 @@ simply launch:
 zk up
 ```
 
-## (Re)deploy db and contraсts
+## (Re)deploy db and contracts
 
 ```
 zk contract redeploy
@@ -62,7 +62,7 @@ Switch between configurations:
 zk env <ENV_NAME>
 ```
 
-Default confiruration is `dev.env`, which is generated automatically
+Default configuration is `dev.env`, which is generated automatically
 from `dev.env.example` during `zk init` command execution.
 
 ## Build and run server + prover locally for development
